@@ -21,9 +21,9 @@ black=(255,0,0)
 screen=pygame.display.set_mode((1000,600))
 pygame.display.set_caption("King In The North Car Game")    
 my_car = pygame.image.load('car12.png')
-my_strips = pygame.image.load('strips.png')
-backgroundleft=pygame.image.load("back.jpeg")
-backgroundright=pygame.image.load("grass.png")
+my_strips = pygame.image.load('strips1.png')
+backgroundleft=pygame.image.load("plain.jpeg")
+# backgroundright=pygame.image.load("grass.png")
 backgroundstrips=pygame.image.load("strips1.png")
 car_width=23
 
